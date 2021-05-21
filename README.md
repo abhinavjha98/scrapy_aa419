@@ -1,3 +1,3 @@
 # scrapy_aa419
 
-Web scrapping of https://db.aa419.org/fakebankslist.php
+Web scrapping of the website https://db.aa419.org/fakebankslist.php
